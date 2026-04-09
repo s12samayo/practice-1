@@ -1,3 +1,4 @@
 My first Git practice
 Learning git is interesting
 This change is on feature1 branch
+adding new line to note
